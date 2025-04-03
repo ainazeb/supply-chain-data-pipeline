@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+pymysql
+boto3
+python-dotenv
+flask
+pyspark
